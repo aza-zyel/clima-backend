@@ -1,0 +1,16 @@
+src/
+ ├─ index.js
+ ├─ config/
+ │     └─ db.js
+ ├─ middleware/
+ │     └─ auth.js
+ ├─ models/
+ │     ├─ User.js
+ │     └─ Comment.js
+ ├─ routes/
+ │     ├─ auth.routes.js
+ │     ├─ comments.routes.js
+ │     └─ voice.routes.js
+
+uploads/
+ └─ .gitkeep
